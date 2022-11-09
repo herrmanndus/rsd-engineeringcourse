@@ -1,0 +1,9 @@
+somekey:
+    - a list # Look, this is a list
+    - with values
+someotherkey:
+    - 8
+andyetanotherkey:
+    - maybetryadict: 
+        - this
+        - that
